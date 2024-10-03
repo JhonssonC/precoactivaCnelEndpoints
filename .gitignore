@@ -1,0 +1,5 @@
+.env
+routes.sqbpro
+app/__pycache__/*.pyc
+data.xlsx
+*.db
